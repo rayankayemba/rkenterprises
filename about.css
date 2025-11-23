@@ -60,13 +60,13 @@ ul li a{
 .content1{
     margin-top: 20px;
     text-align: center;
-    font-size: 30px;
+    font-size: 25px;
     background:rgb(245, 245, 164);
     width: 100%;
     height: 400px;
     padding: 8px;
     text-shadow: 1px 0.5px 1px white;
-    line-height: 40px;
+    line-height: 20px;
 }
 h5{
     color: #000000;
@@ -114,3 +114,4 @@ p2{
     text-shadow: 0.3px 0px 0px white;
 
  }
+
