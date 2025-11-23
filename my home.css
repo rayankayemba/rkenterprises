@@ -1,0 +1,13 @@
+{
+            margin: 0;
+            padding: 0;
+        }
+        body{
+            background: linear-gradient(to top, red,rgba(0,0,0,0.5)70%), url(pc3.jpg);
+        }
+        .navbar{
+            width: 100%;
+    border-color: #fff;
+    height: 75px;
+    background-color: #000;
+}
